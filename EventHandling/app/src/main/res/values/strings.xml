@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EventHandling</string>
+    <string-array name="phep">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>:</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>Viet Nam</item>
+        <item>Lao</item>
+        <item>Nhat Ban</item>
+        <item>Trung Quoc</item>
+    </string-array>
+
+    <string-array name="technology">
+        <item>Android</item>
+        <item>Web</item>
+        <item>java</item>
+        <item>python</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Rubi</item>
+        <item>Nodejs</item>
+    </string-array>
+
+</resources>
