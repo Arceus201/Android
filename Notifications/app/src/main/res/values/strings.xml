@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="channel_name">Channel 1</string>
+    <string name="channel_description">Mieu ta cho channel 1</string>
+
+    <string name="channel_name2">Channel 2</string>
+    <string name="channel_description2">Mieu ta cho channel 2</string>
+
+
+</resources>
