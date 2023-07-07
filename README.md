@@ -1,5 +1,4 @@
-# Android
-# 2023
+# Android - Java - 2023
 # 01-Android Environment Development Setting
 # 02-Android Architecture - Activity life cycle
 # 03-Android Layout
